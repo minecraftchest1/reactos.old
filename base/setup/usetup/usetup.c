@@ -526,6 +526,7 @@ GetNTOSInstallationName(
     }
 }
 
+/**** Stage 1 Setup Screens ***************************************/
 
 /*
  * Displays the LanguagePage.
